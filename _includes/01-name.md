@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Alistair Krempel
+## Computer Science Student
+### Licensed Clinical Laboratory Technician
